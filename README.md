@@ -1,5 +1,5 @@
 # Notscilloscope
-An open source (not-)oscilloscope running on an Arduino with LCD display, as featured on BR-Arduino.org 
+An open source (not-)oscilloscope running on an Arduino with LCD display, as featured on <a href="http://br-arduino.org/">BR-Arduino.org</a>. 
 
 <img width="680" height="375" src="http://static.efetividade.net/img/not-2015-04-19-15.36.23-650px-12277.jpg">
 

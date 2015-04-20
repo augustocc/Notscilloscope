@@ -22,10 +22,10 @@ const byte pot2Analogico=A4;
 const int pot2max=1007;
 
 // SPI via software:
-// pino 13 - Serial clock out (SCLK)
-// pino 11 - Serial data out (DIN)
+// pino 13 - Serial clock out (SCLK;MOSI)
+// pino 11 - Serial data out (DN;DIN)
 // pino 8 - Data/Command select (D/C)
-// pino 10 - LCD chip select (CS)
+// pino 10 - LCD chip select (CS;SCE)
 // pino 9 - LCD reset (RST)
 Adafruit_PCD8544 display = Adafruit_PCD8544(13, 11, 8, 10, 9);
 
